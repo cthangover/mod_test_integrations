@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "author": "ct",
   "description": "A test fixture, not content: hosts the integration 'probe' that joins a mod set only together with quests_base, so the tests can check both the boot and the in-process mounting gate. Never part of a game.",
-  "category": "other",
+  "categories": ["other"],
   "fixture": true,
   "test_sources": ["tests/*.cs"],
   "integrations": [
